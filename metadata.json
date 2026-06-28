@@ -1,0 +1,6 @@
+{
+  "name": "Delish",
+  "description": "A food delivery + macro tracking app with an AI-powered recipe analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
